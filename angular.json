@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "api": "apps/api",
+    "api-interfaces": "libs/api-interfaces",
+    "todosws": "apps/todosws",
+    "todosws-e2e": "apps/todosws-e2e"
+  }
+}
